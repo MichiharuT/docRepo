@@ -12,7 +12,7 @@
 |AUTH01|ログイン|Michiharu.T|2023/02/19|(初版)|(初版)|
 
 ## 処理フロー
-![図1](https://raw.githubusercontent.com/MichiharuT/testrepo/feature/diagram.drawio.svg)
+![図1](./diagram.drawio.svg)
 
 ## 処理詳細
 ### 入力チェック
