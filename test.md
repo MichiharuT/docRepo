@@ -11,10 +11,7 @@
 |AUTH01|ログイン|Michiharu.T|2023/02/19|(初版)|(初版)|
 
 ## 処理フロー
-<picture>
-<source srcset="test.svg" type="image/svg+xml">
-<img src="dummy.gif" alt="代替テキスト">
-</picture>
+![大体](test.svg)
 
 ## 処理詳細
 ### 入力チェック
