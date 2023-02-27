@@ -11,7 +11,10 @@
 |AUTH01|ログイン|Michiharu.T|2023/02/19|(初版)|(初版)|
 
 ## 処理フロー
-![githubみる](https://github.com/MichiharuT/testrepo/blob/master/diagram2.drawio.svg)
+<picture>
+<source srcset="test.svg" type="image/svg+xml">
+<img src="dummy.gif" alt="代替テキスト">
+</picture>
 
 ## 処理詳細
 ### 入力チェック
