@@ -11,7 +11,7 @@
 |AUTH01|ログイン|Michiharu.T|2023/02/19|(初版)|(初版)|
 
 ## 処理フロー
-![図1](./diagram2.drawio)
+![図1](http://localhost:8080/root/mytest/raw/feature/diagram2.drawio.svg)
 
 ## 処理詳細
 ### 入力チェック
